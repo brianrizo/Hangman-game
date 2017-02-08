@@ -16,10 +16,11 @@ body {
   right: 716px;
   top: 387px;
   
-
-
 }
 
+audio {
+  display: none;
+}
 
 p{
   font-weight: bold;
